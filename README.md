@@ -9,7 +9,8 @@ This Power BI dashboard provides a comprehensive analysis of sales and profit da
 ## 📈 Key Visualizations
 
 ### 1. **Sales by Category and Segment**
-![Screenshot 2025-06-10 160156](https://github.com/user-attachments/assets/1d422155-03a8-4365-b6b5-cf69e100b717)
+![Screenshot 2025-06-10 180812](https://github.com/user-attachments/assets/e2a5bc37-62a7-49e2-943c-8b83860be985)
+
 
 - A bar chart that breaks down sales across three main product categories:
   - **Technology**
@@ -18,7 +19,8 @@ This Power BI dashboard provides a comprehensive analysis of sales and profit da
 - Segmented by customer types: **Consumer**, **Corporate**, and **Home Office**.
 
 ### 2. **Country-wise Profit Distribution**
-![Screenshot 2025-06-10 160156](https://github.com/user-attachments/assets/a56ff927-ac5f-4a84-9507-c6097182e828)
+![Screenshot 2025-06-10 181101](https://github.com/user-attachments/assets/02d20090-85ba-439e-b68b-d2d4a0f2a3a1)
+
 
 - A map visualization highlighting **profit performance across European countries**, enabling quick geographic comparisons.
 
