@@ -23,12 +23,16 @@ This Power BI dashboard provides a comprehensive analysis of sales and profit da
 - A map visualization highlighting **profit performance across European countries**, enabling quick geographic comparisons.
 
 ### 3. **Sales and Profit Trends Over Time**
+![Screenshot 2025-06-10 175834](https://github.com/user-attachments/assets/5f517679-9cb9-40ee-8677-5e7bccbfd739)
+
 
 - A dual-axis line chart showing:
   - **Sales growth** from 2011 to 2014.
   - **Profit trends** over the same period.
 
 ### 4. **Sales by Region and Sub-Category**
+![Screenshot 2025-06-10 180114](https://github.com/user-attachments/assets/1cd2077e-bc63-4c6a-b385-6d6ab8d256fb)
+
 - A treemap that visualizes sales by:
   - **Region**: Central, South, North
   - **Sub-Categories**: Phones, Bookcases, Chairs, Machines, etc.
@@ -37,19 +41,6 @@ This Power BI dashboard provides a comprehensive analysis of sales and profit da
 - **Power BI**: For data modeling, transformation, and visualization.
 - **DAX**: For calculated measures and KPIs.
 
-## 📌 Highlights
-- Interactive and dynamic visuals for better user engagement.
-- Clear storytelling through data to support business insights.
-- Effective use of Power BI features like slicers, maps, and treemaps.
 
-## 📷 Dashboard Preview
-
-!Dashboard Preview
-
-> Replace the image path above with the actual path if hosted in the repo.
-
----
-
-Feel free to explore the dashboard and reach out for collaboration or feedback!
 
 
