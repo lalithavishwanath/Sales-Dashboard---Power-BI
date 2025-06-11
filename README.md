@@ -9,7 +9,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and profit da
 ## 📈 Key Visualizations
 
 ### 1. **Sales by Category and Segment**
-![Screenshot 2025-06-10 180812](https://github.com/user-attachments/assets/e2a5bc37-62a7-49e2-943c-8b83860be985)
+<Iimg src="https://github.com/user-attachments/assets/e2a5bc37-62a7-49e2-943c-8b83860be985" width=100>
 
 
 - A bar chart that breaks down sales across three main product categories:
