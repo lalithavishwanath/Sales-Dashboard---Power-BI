@@ -19,7 +19,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and profit da
 - Segmented by customer types: **Consumer**, **Corporate**, and **Home Office**.
 
 ### 2. **Country-wise Profit Distribution**
-![Screenshot 2025-06-10 181101](https://github.com/user-attachments/assets/02d20090-85ba-439e-b68b-d2d4a0f2a3a1)
+<img src="https://github.com/user-attachments/assets/02d20090-85ba-439e-b68b-d2d4a0f2a3a1" width=100>
 
 
 - A map visualization highlighting **profit performance across European countries**, enabling quick geographic comparisons.
